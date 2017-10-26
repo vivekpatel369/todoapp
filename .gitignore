@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+venv
+media/*
+*.swp
+.variables
+docs/_build/
+/static
+db.sqlite3
